@@ -1,0 +1,23 @@
+[
+    {
+        "name": "projectName",
+        "label": "Project Name",
+        "type": "char",
+        "length": 32,
+        "value": "OScar IoT"
+    },
+    {
+        "name": "stringInput",
+        "type": "char",
+        "hidden": true,
+        "length": 11,
+        "value": "invisible!"
+    },
+    {
+        "name": "language",        
+        "type": "char",
+        "length": 3,
+        "value": "en",
+        "hidden": true
+    }
+]
